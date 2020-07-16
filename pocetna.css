@@ -1,0 +1,77 @@
+.prvi{
+    position: relative;
+}
+.naslovna{
+    width: 100%;
+    opacity: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 2;
+}
+.login{
+    position: absolute;
+    text-align: center;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%,-500px);
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: purple;
+    color: palevioletred;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    border-radius: 5px;
+    font-size: xx-large;
+}
+.singup{
+    position: absolute;
+    text-align: center;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%,-450px);
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: purple;
+    color: palevioletred;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    border-radius: 5px;
+    font-size: xx-large;
+}
+h1{
+    position: absolute;
+    text-align: center;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%,-850px);
+    color: rgb(172, 25, 140);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+}
+.nastavi{
+        position: absolute;
+        text-align: center;
+        top: 90%;
+        left: 50%;
+        transform: translate(-50%,-400px);
+        font: bold 11px Arial;
+        text-decoration: none;
+        background-color: rgb(212, 123, 212);
+        color: rgb(212, 61, 111);
+        padding: 2px 6px 2px 6px;
+        border-top: 1px solid #CCCCCC;
+        border-right: 1px solid #333333;
+        border-bottom: 1px solid #333333;
+        border-left: 1px solid #CCCCCC;
+        border-radius: 5px;
+        font-size: xx-large;
+}
+body{
+    overflow: hidden;
+}
